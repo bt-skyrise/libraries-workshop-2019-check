@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workshop2019.Check", "Workshop2019.Check\Workshop2019.Check.csproj", "{637D4B21-B5E2-4E6C-AA6C-B8ED3EAA44CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{637D4B21-B5E2-4E6C-AA6C-B8ED3EAA44CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{637D4B21-B5E2-4E6C-AA6C-B8ED3EAA44CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{637D4B21-B5E2-4E6C-AA6C-B8ED3EAA44CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{637D4B21-B5E2-4E6C-AA6C-B8ED3EAA44CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69CC9F37-D537-433B-A7A8-88E3C7E2896E}
+	EndGlobalSection
+EndGlobal
